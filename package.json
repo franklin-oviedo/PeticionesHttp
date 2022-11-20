@@ -1,5 +1,5 @@
 {
-  "name": "webpack",
+  "name": "PeticionesHttp",
   "version": "1.0.0",
   "description": "Proyecto de WebPack",
   "main": "index.js",
